@@ -9,7 +9,7 @@
 The Flight Reservation System is a web application built using CodeIgniter 4, a PHP full-stack web framework that is light, fast, flexible, and secure. This system allows users to search for flights, make reservations, and manage bookings.
 
 ### Homepage
-![App Screenshot](https://github.com/Esquire31/Walker2d-Deep-Reinforcement-Learning/blob/main/Examples/mujoco%202024-07-13%2012-22-44.gif)
+![App Screenshot](https://github.com/Esquire31/Flight-Reservation-CodeIgniter4/blob/main/public/Screenshot%202024-07-22%20230009.png)
 
 ## What is CodeIgniter?
 
